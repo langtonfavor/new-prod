@@ -1,0 +1,15 @@
+serverless install --url https://github.com/AnomalyInnovations/serverless-nodejs-starter --name notes-backend-api
+AWS_PROFILE=myProfile serverless invoke local --serverless invoke local --function create --path mocks/create-event.jsonfunction create --path mocks/create-event.json
+
+
+
+
+serverless invoke local --function create --path mocks/create-event.json
+
+
+# NOTE: update this with your service name
+service: notes-backend-api
+
+
+
+notes-backend-api>serverless invoke local --function get --path mocks/get-event.json
