@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01f6c00f-e2a1-4407-b737-f27054b9b8bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test-api/aws-api-gateway-cli-test" beforeDir="false" afterPath="$PROJECT_DIR$/Test-api/aws-api-gateway-cli-test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test-api/aws-api-gateway-cli-test/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Test-api/aws-api-gateway-cli-test/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes-app-client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app-client/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes-app-client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app-client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes-app-client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app-client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes-app-client/src/logo.svg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,10 +22,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/notes-app-client/src/index.js">
+        <entry file="file://$PROJECT_DIR$/notes-app-client/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="238">
+              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,6 +60,8 @@
         <option value="$PROJECT_DIR$/notes-app-client/public/index.html" />
         <option value="$PROJECT_DIR$/notes-app-client/src/index.css" />
         <option value="$PROJECT_DIR$/notes-app-client/src/index.js" />
+        <option value="$PROJECT_DIR$/notes-app-client/src/App.js" />
+        <option value="$PROJECT_DIR$/notes-app-client/src/App.css" />
       </list>
     </option>
   </component>
@@ -69,6 +77,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,23 +90,10 @@
               <item name="note-backend-api" type="462c0819:PsiDirectoryNode" />
               <item name="notes-app-client" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="note-backend-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="note-backend-api" type="462c0819:PsiDirectoryNode" />
-              <item name="notes-app-client" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="note-backend-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="note-backend-api" type="462c0819:PsiDirectoryNode" />
-              <item name="notes-app-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,11 +142,12 @@
       <workItem from="1551959652689" duration="2423000" />
       <workItem from="1552035256828" duration="590000" />
       <workItem from="1552036920693" duration="4243000" />
+      <workItem from="1552051645569" duration="2021000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30626000" />
+    <option name="totallyTimeSpent" value="32647000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -336,8 +333,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/notes-app-client/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes-app-client/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes-app-client/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
